@@ -1,1 +1,2 @@
 # average_view_counts_sinister
+This project analyzes the YouTube channel Boze vs The World, comparing the "Sinister" playlist's performance with other videos. Using custom-built analytics, it visualizes trends like average view counts, revealing how different content types engage viewers. The graph highlights average view counts, with values in the millions represented using scientific notation (e.g., 1e6 = 1,000,000). This project showcases skills in data analysis, Python programming, and visualization.
